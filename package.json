@@ -1,0 +1,23 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Liri, like Siri only not. ",
+  "main": "run.js",
+  "dependencies": {
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaycen9887/Liri.git"
+  },
+  "author": "Jaycen Milling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaycen9887/Liri/issues"
+  },
+  "homepage": "https://github.com/jaycen9887/Liri#readme"
+}
