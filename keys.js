@@ -3,8 +3,8 @@ exports.imdb_key = {
 };
 
 exports.spotify_key = {
-    client_id: "cf6aa94c70014c38a4529ba7c7bf7c9c",
-    client_secret: "3801b3c6195140f09509193eee2ba7ce"
+    id: "cf6aa94c70014c38a4529ba7c7bf7c9c",
+    secret: "3801b3c6195140f09509193eee2ba7ce"
 };
 
 exports.twitter_key = {

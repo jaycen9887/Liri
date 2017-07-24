@@ -4,7 +4,9 @@
   "description": "Liri, like Siri only not. ",
   "main": "run.js",
   "dependencies": {
-    "twit": "^2.2.9"
+    "http": "0.0.0",
+    "twit": "^2.2.9",
+    "twitter": "^1.7.1"
   },
   "devDependencies": {},
   "scripts": {
